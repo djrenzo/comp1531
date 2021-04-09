@@ -1,0 +1,6 @@
+{
+  "auth_login_test.py": true,
+  "auth_logout_test.py": true,
+  "auth_register_test.py": true,
+  "message_unpin_test.py": true
+}
